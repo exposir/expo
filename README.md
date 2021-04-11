@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🌱 learning
-- ⚡ running
-- 🤔 playing
+- 🌱 New beginning
 <!--
 **exposir/exposir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
