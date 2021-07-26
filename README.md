@@ -1,6 +1,6 @@
 ## 🙋 Introduction  
 
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/exposir)
+![](https://img.shields.io/static/v1?label=wechat&message=expo213&color=57bd6a&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/exposir) 
 
 Hi, I'm Meng shibo. Living in Beijing.
 
