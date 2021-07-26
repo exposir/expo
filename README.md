@@ -14,7 +14,9 @@ Open Source Enthusiast
 
 ## My Articles  
 
-- [《他改变了中国》书摘 ](https://github.com/exposir/blog/issues/41)
+- [《他改变了中国》 书摘 ](https://github.com/exposir/blog/issues/41)
+
+- [《React 进阶实践指南》 笔记 ](https://github.com/exposir/blog/issues/43)
 
 ## Open Source Work Stats 
 
