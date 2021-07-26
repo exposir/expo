@@ -9,17 +9,10 @@ react Hobbyist
 
 
 
-## 新闻 
-- [掘金酱](https://e.juejin.cn/)
+## My Articles
 
-- [字节前端](https://www.zhihu.com/org/zi-jie-qian-duan)
+- [《他改变了中国：江泽民传》书摘 ](https://github.com/exposir/blog/issues/41)
 
-- [人民日报](http://www.people.com.cn/GB/59476/index.html)
 
-- [法国新闻社](https://www.rfi.fr/cn/%E6%BB%9A%E5%8A%A8%E6%96%B0%E9%97%BB/)
-
-- [路透通讯社](https://cn.reuters.com/)
-
-- [财新网](https://www.caixin.com/)
 
 
