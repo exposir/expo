@@ -11,7 +11,7 @@ react Hobbyist
 
 ## My Articles
 
-- [《他改变了中国：江泽民传》书摘 ](https://github.com/exposir/blog/issues/41)
+- [《他改变了中国》书摘 ](https://github.com/exposir/blog/issues/41)
 
 
 
