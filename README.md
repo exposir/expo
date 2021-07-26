@@ -1,5 +1,7 @@
 ## 🙋 Introduction  
 
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/exposir)
+
 Hi, I'm Meng shibo. Living in Beijing.
 
 A Fontend engineer
@@ -8,7 +10,7 @@ Currently rearning React related technologies
 
 Open Source Enthusiast
 
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/exposir)
+
 
 ## My Articles  
 
