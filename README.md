@@ -6,7 +6,7 @@ Hi, I'm Meng shibo. Living in Beijing.
 
 A Fontend engineer
 
-Currently rearning React related technologies
+Currently learning React related technologies
 
 Open Source Enthusiast
 
