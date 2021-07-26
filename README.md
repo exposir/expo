@@ -1,6 +1,12 @@
-### Hi there 👋
+### 🙋 Introduction
 
-- A front-end engineer 💻
+Hi, I'm Meng shibo. Living in Beijing.
+
+A Fontend engineer.
+
+react Hobbyist
+
+
 
 
 ## 新闻 
