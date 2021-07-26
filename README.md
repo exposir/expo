@@ -14,6 +14,6 @@ Open Source Enthusiast
 
 ### Open Source Work Stats 
 
-![lidongjie's Github stats](https://github-readme-stats.vercel.app/api?username=exposir&show_icons=true&theme=dracula)
+![lidongjie's Github stats](https://github-readme-stats.vercel.app/api?username=exposir&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
