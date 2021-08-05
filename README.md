@@ -14,7 +14,7 @@ Open Source Enthusiast
 
 ## My Articles  
 
-- [《Javascript 悟道》读书笔记](https://github.com/exposir/blog/issues/44)
+- [《Javascript 悟道》读书笔记](https://github.com/exposir/blog/issues/45)
 
 - [《When to pick Gatsby, Next.Js or Create React App》翻译](https://github.com/exposir/blog/issues/44)
 
