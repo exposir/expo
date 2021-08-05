@@ -14,13 +14,13 @@ Open Source Enthusiast
 
 ## My Articles  
 
-- [《Javascript 悟道》读书笔记](https://github.com/exposir/blog/issues/45)
+- [《Javascript 悟道》读书笔记](https://github.com/exposir/Personal-Blog/issues/45)
 
-- [《When to pick Gatsby, Next.Js or Create React App》翻译](https://github.com/exposir/blog/issues/44)
+- [《When to pick Gatsby, Next.Js or Create React App》翻译](https://github.com/exposir/Personal-Blog/issues/44)
 
-- [《他改变了中国》 书摘 ](https://github.com/exposir/blog/issues/41)
+- [《他改变了中国》 书摘 ](https://github.com/exposir/Personal-Blog/issues/41)
 
-- [《React 进阶实践指南》 笔记 ](https://github.com/exposir/blog/issues/43)
+- [《React 进阶实践指南》 笔记 ](https://github.com/exposir/Personal-Blog/issues/43)
 
 ## Open Source Work Stats 
 
