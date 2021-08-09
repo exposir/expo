@@ -22,6 +22,8 @@ Open Source Enthusiast
 
 - [《React 进阶实践指南》 笔记 ](https://github.com/exposir/Personal-Blog/issues/43)
 
+- [《前端开发核心知识进阶》](https://github.com/exposir/Personal-Blog/issues/46)
+
 ## Open Source Work Stats 
 
 ![lidongjie's Github stats](https://github-readme-stats.vercel.app/api?username=exposir&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
