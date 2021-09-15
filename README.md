@@ -12,7 +12,7 @@ Open Source Enthusiast
 
 [Enjoy Life 😄](https://github.com/exposir/Personal-Blog/issues/50)
 
-[🐦 Twitter](https://twitter.com/ExposirM) · [👔 Maimai](https://maimai.cn/contact/detail/166881244) · [📸 Zhihu](https://www.zhihu.com/people/exposir)
+[Twitter](https://twitter.com/ExposirM) · [Maimai](https://maimai.cn/contact/detail/166881244) · [Zhihu](https://www.zhihu.com/people/exposir)
 
 
 ## My Articles
