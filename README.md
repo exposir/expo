@@ -8,8 +8,6 @@ A Fontend engineer
 
 Currently learning React related technologies
 
-[My Collection](https://github.com/exposir/Personal-Blog/issues/50)
-
 [Twitter](https://twitter.com/ExposirM) · [Maimai](https://maimai.cn/contact/detail/166881244) · [Zhihu](https://www.zhihu.com/people/exposir)
 
 ## Open Source Work Stats
