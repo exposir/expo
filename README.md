@@ -8,7 +8,7 @@ A Fontend engineer
 
 Currently learning React related technologies
 
-[Twitter](https://twitter.com/ExposirM) · [Maimai](https://maimai.cn/contact/detail/166881244) · [Zhihu](https://www.zhihu.com/people/exposir)
+[Twitter](https://twitter.com/ExposirM) · [Zhihu](https://www.zhihu.com/people/exposir)
 
 ## Open Source Work Stats
 
