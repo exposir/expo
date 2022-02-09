@@ -8,7 +8,7 @@ A Fontend engineer
 
 Currently learning React related technologies
 
-[Twitter](https://twitter.com/ExposirM) · [Zhihu](https://www.zhihu.com/people/exposir)
+[Twitter](https://twitter.com/ExposirM) · [Zhihu](https://www.zhihu.com/people/exposir) · [weekly](https://weekly.exposir.cn/)
 
 ## Open Source Work Stats
 
